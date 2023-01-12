@@ -14,10 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/ikbalhasan312?theme=light&font=Karma&ext=contest" />
+ </p>
+ 
 ![](https://raw.githubusercontent.com/ikbal312/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg)
 ![](https://raw.githubusercontent.com/ikbal312/cf-stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/ikbal312/cf-stats/main/output/rating.svg)****
+![](https://raw.githubusercontent.com/ikbal312/cf-stats/main/output/rating.svg)
+****
 
 
 #### Connect With Me
