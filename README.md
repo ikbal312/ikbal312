@@ -36,13 +36,13 @@
 
 ---
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikbal312&show_icons=true&theme=tokyonight&layout=compact" alt="ikbal312" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikbal312&show_icons=true&theme=vue&layout=compact" alt="ikbal312" />
  
 ---
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ikbal312&show_icons=true&theme=tokyonight" alt="ikbal312" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ikbal312&show_icons=true&theme=vue" alt="ikbal312" /> 
 
 ---
 
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikbal312&show_icons=true&theme=tokyonight" alt="ikbal312" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikbal312&show_icons=true&theme=vue" alt="ikbal312" />
 
