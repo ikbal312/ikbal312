@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **django**
 - 💬 Ask me about **React,Javascript,Python,django**
-- 📋 Goal : Competitive Programmer & Software Engineer
+- 📋 Goal : Competitive Programmer & Software Developer
 - 📫 How to reach me **ikbalhasan312@gmail.com**
 
 #### Connect With Me
