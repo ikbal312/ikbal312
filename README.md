@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning **django**
-- 💬 Ask me about **React,Javascript,Typescript,HTML,CSS,Tailwind**
+- 💬 Ask me about **React,Javascript,Python,django**
 - 📋 Goal : Competitive Programmer & Software Engineer
 - 📫 How to reach me **ikbalhasan312@gmail.com**
 
