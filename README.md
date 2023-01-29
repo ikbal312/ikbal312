@@ -1,4 +1,5 @@
 
+ <img src="https://github.com/ikbal312/ikbal312/blob/main/cover.png" height=250>
 <h1 align="center">Hi 👋, I'm ikbal</h1>
 
 
