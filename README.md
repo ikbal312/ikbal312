@@ -34,4 +34,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikbal312&label=Profile%20views&color=0e75b6&style=flat" alt="ikbal312" /> </p>
 
+---
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikbal312&show_icons=true&theme=tokyonight&layout=compact" alt="ikbal312" />
+ 
+---
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ikbal312&show_icons=true&theme=tokyonight" alt="ikbal312" /> 
+
+---
+
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikbal312&show_icons=true&theme=tokyonight" alt="ikbal312" />
 
