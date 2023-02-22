@@ -46,3 +46,5 @@
 
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikbal312&show_icons=true&theme=vue" alt="ikbal312" />
 
+<img align="center" src="https://raw.githubusercontent.com/ikbal312/cf-stats/main/output/light_card.svg" alt="codeforces" />
+
