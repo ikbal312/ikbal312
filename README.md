@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm ikbal</h1>
 
 
-- 🌱 I’m currently learning **django**
-- 💬 Ask me about **React, Javascript, Python, Django-REST-framework**
+- 💬 Ask me about **React,Nextjs-13, Typescript, Python, Django-REST-framework**
 - 📋 Goal : Competitive Programmer & Software Developer
 - 📫 How to reach me **ikbalhasan312@gmail.com**
 
